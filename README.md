@@ -1,5 +1,6 @@
 # BOT CK (discord)
- This is a bot principaly made to do a Character Kill on Fivem Servers (gta Roleplay)
+ The finality of this bot is to facilitate the work when you're going to make a Character Kill of a player on GTA Roleplay.
+You can use this bot to delate information of a database with some discord commands.
 
 # Configuration to make a Character Kill (CK):
 1. Use the command  ```ruby !help``` to know all the commands that offers the bot.
@@ -19,11 +20,12 @@ To excec this bot, you need to install / import next complements:
 
 To install the complements, follow the instructions below:
 
-1. discord.py: To install discord py on Windows, open cmd and pass next command:
+1. Install Python.
+2. discord.py: To install discord py on Windows, open cmd and pass next command:
 ```ruby py -3.6 -m pip install -U discord.py ```
 To install it on linux, use the next command: ```ruby python3 -m pip install -U discord.py```
 
-2. mysql-connection: To install mysql-connection on Windows, open and paass next command: 
+3. mysql-connection: To install mysql-connection on Windows, open and paass next command: 
 - ```ruby pip install mysql-connector-python```.
 - To install it on Linux, you have to insert next commands:
 - ```ruby sudo apt-get install mysql-connector-python```
