@@ -1,0 +1,7 @@
+##THIS IS THE CONFIG FILE
+
+
+
+## INSERT YOU'RE TOKEN HERE
+token ="TOKEN"
+
