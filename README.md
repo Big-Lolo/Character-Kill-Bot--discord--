@@ -15,6 +15,6 @@ To install it on linux, use the next command: ```ruby python3 -m pip install -U 
 
 2. mysql-connection: To install mysql-connection on Windows, open and paass next command: 
 ```ruby pip install mysql-connector-python```.
-- To install it on Linux, you have to insert next commands:
+To install it on Linux, you have to insert next commands:
 - ```ruby sudo apt-get install mysql-connector-python```
 - ```ruby pip install mysql-connector-python```
